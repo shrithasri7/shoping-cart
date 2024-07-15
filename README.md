@@ -1,0 +1,1 @@
+Shopping Cart functionality, design a seamless experience where users can add products, view their cart contents, update quantities, and calculate total prices dynamically. Implement features like checkout and order confirmation to finalize purchases. Use JavaScript to manage cart operations and ensure a smooth user experience from adding items to completing an order.
